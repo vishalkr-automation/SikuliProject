@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7205" started-at="2022-11-02T17:48:24 IST" finished-at="2022-11-02T17:48:32 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7205" started-at="2022-11-02T17:48:24 IST" finished-at="2022-11-02T17:48:32 IST">
+      <class name="sdet.DownloadFile_ChromeBrowser">
+        <test-method status="PASS" signature="login()[pri:0, instance:sdet.DownloadFile_ChromeBrowser@396f6598]" name="login" duration-ms="7170" started-at="2022-11-02T17:48:24 IST" finished-at="2022-11-02T17:48:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- sdet.DownloadFile_ChromeBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
